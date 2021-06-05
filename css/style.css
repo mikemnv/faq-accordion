@@ -28,8 +28,8 @@
 .box {
     position: absolute;
     z-index: 1;
-    left: -10.5%;
-    top: 43%;
+    left: -10%;
+    top: 39%;
 }
 
 .image {
@@ -50,7 +50,7 @@
 
 .woman {
     position: absolute;
-    top: 15%;
+    top: 11%;
     left: -17.5%;
 }
 
